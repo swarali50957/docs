@@ -69,3 +69,12 @@ The `sort:updated` qualifier sorts by how recently the items were updated.
 
 - [About searching on GitHub](/articles/about-searching-on-github)
 - [Sorting issues and pull requests](/articles/sorting-issues-and-pull-requests/)
+
+make a liitle Simple for Beginners.
+To learn easily and quick 
+### Sort by interactions
+
+The `sort:interactions` qualifier sorts by the highest combined number of reactions and comments.
+`sort :interaction ` are use too sort update.
+
+
